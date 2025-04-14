@@ -5,10 +5,6 @@
 🎥 content creator
 📖 Student in Software and data engineering 
 
-# 💫 About Me:
-software development <br>content creator<br>
-
-
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@HEY-SEGIAN) 
 
