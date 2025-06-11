@@ -1,4 +1,4 @@
-##Hi, im sebastian 
+##Hi, im sebastian Giraldo | Software developer Junior
 
 💻 software skills 
 📲 remote work skills
